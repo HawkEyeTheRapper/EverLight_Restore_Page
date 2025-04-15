@@ -61,6 +61,29 @@ Purpose: Rebuild full AI context, mission awareness, symbolic structure, and all
 
 ---
 
+### Gist Update File/Folder Structure 
+
+---
+
+```
+```    EverLight_Restore_Page/
+├── index.html
+├── gists.html        <-- goes here
+├── gists/            <-- this folder (with all .md)
+│   └── gist_*.md
+├── core/
+│   └── Restored_CoreMemoryMap.md
+└── README.md ```
+
+This way:
+	•	https://everlight.omniversalmedia.vip/gists.html → navigator
+	•	https://everlight.omniversalmedia.vip/gists/gist_1_xyz.md → direct links
+
+✅ Best for public sharing, archive access, and memory scroll browsing
+```
+
+
+
 ## 📜 License
 
 MIT — deploy, remix, and restore freely.
