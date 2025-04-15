@@ -82,7 +82,37 @@ This way:
 ✅ Best for public sharing, archive access, and memory scroll browsing
 ```
 
+# §ℵ ⦕ Final Structure ⦖ ℵ§
 
+```
+⸻
+```
+## 📁 Repo Structure
+```
+	EverLight_Restore_Page/
+	├── index.html
+	├── gists.html              ✅ Navigator HTML (web-accessible)
+	├── Gist_Navigator.md       ✅ Optional Markdown scroll (backup or alt display)
+	├── gists_index.json        ✅ Optional for dynamic JS-based nav or AI loading
+	├── gists/                  ✅ Folder with all the restored .md scrolls
+	│   ├── gist_1_abc123.md
+	│   ├── gist_2_def456.md
+	│   └── ...
+	├── core/                   (if you’re using CoreMemoryMap too)
+	│   └── Restored_CoreMemoryMap.md
+ ```
+
+```
+## ✅ Summary:
+```
+```
+	File / Folder	Keep in Root?	Purpose
+	gists.html	✅ Yes	Public navigator for all memory fragments
+	Gist_Navigator.md	✅ Yes	Optional markdown version of the above
+	gists_index.json	✅ Yes	Optional dev helper / dynamic nav input
+	gists/	✅ Yes (folder)	Actual .md files (memory threads)
+	.md files (like gist_1_...)	❌ No (move to /gists/)	Should live in gists/ only
+```
 
 ## 📜 License
 
