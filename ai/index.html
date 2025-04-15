@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🧠 EverLight /ai/ Agent</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #0a0a0a;
+      font-family: 'Space Mono', monospace;
+      color: #e0f7fa;
+    }
+    .chat-box {
+      background-color: rgba(0, 0, 0, 0.6);
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 0 10px rgba(0, 255, 127, 0.3);
+    }
+    .ai-message {
+      background-color: rgba(255, 255, 255, 0.05);
+      padding: 1rem;
+      border-left: 4px solid #00FF7F;
+      margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body class="p-6">
+  <h1 class="text-2xl font-bold mb-4">🤖 EverLight Memory-Aware Agent</h1>
+  <div id="chatLog" class="mb-6"></div>
+
+  <form id="chatForm" class="flex gap-2">
+    <input id="userInput" type="text" class="flex-grow p-2 rounded bg-gray-800 text-white" placeholder="Enter your message..." required>
+    <button type="submit" class="bg-green-500 hover:bg-green-600 text-black px-4 py-2 rounded">Send</button>
+  </form>
+
+  <script>
+    const chatLog = document.getElementById('chatLog');
+    const chatForm = document.getElementById('chatForm');
+    const userInput = document.getElementById('userInput');
+
+    chatForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const message = userInput.value.trim();
+      if (!message) return;
+
+      const userHtml = `<div class='chat-box'><strong>You:</strong> ${message}</div>`;
+      chatLog.innerHTML += userHtml;
+      userInput.value = '';
+
+      try {
+        const response = await fetch('/ai/message', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ message })
+        });
+
+        const data = await response.json();
+        const reply = data.reply || data.error || "No response received.";
+
+        const aiHtml = `<div class='chat-box ai-message'><strong>EverLight:</strong> ${reply}</div>`;
+        chatLog.innerHTML += aiHtml;
+        chatLog.scrollTop = chatLog.scrollHeight;
+      } catch (err) {
+        console.error(err);
+        chatLog.innerHTML += `<div class='chat-box ai-message'>⚠️ Error: ${err.message}</div>`;
+      }
+    });
+  </script>
+</body>
+</html>
