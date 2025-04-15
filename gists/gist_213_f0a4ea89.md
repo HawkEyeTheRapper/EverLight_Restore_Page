@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Organizing Notion Workspace Effectively
 
 **SYSTEM**: 
@@ -57,3 +63,4 @@
    This gives you time to clear out outdated info, archive completed projects, and prioritize for the days ahead.
 
 Would you like to go deeper into a particular setup, like task management or knowledge hubs, or do you feel ready to dive into organizing each area?
+{% endraw %}

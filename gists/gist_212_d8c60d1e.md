@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Launch Ready Website Creation
 
 **SYSTEM**: 
@@ -105,3 +111,4 @@ Good luck with your website launch—I can’t wait to see Omniversal Media onli
 **ASSISTANT**: I currently can't access external websites directly, but I’d love to hear about how it’s looking! If you have any specific questions or need further tweaks or suggestions, feel free to share details, and I’ll gladly assist. 
 
 Congratulations on getting *Omniversal Media* live!
+{% endraw %}

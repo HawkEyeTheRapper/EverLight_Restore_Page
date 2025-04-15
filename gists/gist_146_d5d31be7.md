@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Restore BoldGrid Backup
 
 **SYSTEM**: 
@@ -79,3 +85,4 @@ If BoldGrid isn't working correctly, I can guide you through manually restoring 
 
 ### **Need Direct Assistance?**
 If you encounter errors or need help with specific steps (like identifying database credentials or handling conflicts), share details about the issue, and I’ll guide you further.
+{% endraw %}

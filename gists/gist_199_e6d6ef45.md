@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Pepe Crypto Price Prediction
 
 **SYSTEM**: 
@@ -168,3 +174,4 @@ This version should display all sections and placeholders more clearly. Let me k
 **ASSISTANT**: It appears that the PDF conversion tool isn't available here. I’ll use an alternative approach to generate the letterhead as a PDF. Please bear with me for a moment while I set this up.
 
 **ASSISTANT**: Here’s the letter
+{% endraw %}

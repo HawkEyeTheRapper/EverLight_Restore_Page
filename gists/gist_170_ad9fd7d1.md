@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # OPNsense LAN Integration Guide
 
 **SYSTEM**: 
@@ -29,3 +35,4 @@ And can you hoelp with it?
 3. **Integration**: I can assist in integrating OPNsense with your existing LAN, ensuring seamless access to your internal services from the outside.
 
 If this aligns with your goals, we can start planning its integration once your current software dependencies are installed. Let me know when you're ready to proceed!
+{% endraw %}

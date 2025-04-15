@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Omniversal Logo Design
 
 **SYSTEM**: 
@@ -138,3 +144,4 @@ That’s what I’m truly seeking
 Since DALL·E currently generates images with solid backgrounds, you may need a **transparent PNG** version. After I generate the logo, I recommend using **Remove.bg** or Photoshop to remove the background if needed.  
 
 I’ll generate the design now—stay tuned! 🚀
+{% endraw %}

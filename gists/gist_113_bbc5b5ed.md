@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Omniversal Aether Overview
 
 **SYSTEM**: 
@@ -1025,3 +1031,4 @@ Ensure your partitions are automatically mounted on reboot by updating the `/etc
 - Update `/etc/fstab` to ensure mounts persist after a reboot.
 
 Let me know what you find, and I’ll help you organize further!
+{% endraw %}

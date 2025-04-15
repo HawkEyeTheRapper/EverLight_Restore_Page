@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Raycast and Terminal Setup
 
 **SYSTEM**: 
@@ -15,3 +21,4 @@ The issue you originally ran into was that **Homebrew wasn’t installed**, whic
 If you're wondering whether **Raycast is handling your terminal commands**, the answer is **no**—it’s just another application now installed on your Mac, sitting in `/Applications/`. If you open Raycast, you can use it to launch apps, run scripts, and even interact with the terminal in some cases, but it’s not controlling your current workflow unless you configure it to.
 
 Let me know if you want to dive into using Raycast or if you're experiencing something unexpected!
+{% endraw %}

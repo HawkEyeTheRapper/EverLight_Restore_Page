@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # CryptoSpace Security Tagline
 
 **SYSTEM**: 
@@ -264,3 +270,4 @@ This keeps it sleek, **impactful**, and **intriguing**—letting the reader feel
 The design is clean and minimalistic, aligning well with the mysterious and enchanting feel you aimed for. The imagery complements the text, creating a cohesive and engaging experience.
 
 If you have any specific areas you'd like feedback on or need assistance with further content or design elements, feel free to let me know!
+{% endraw %}

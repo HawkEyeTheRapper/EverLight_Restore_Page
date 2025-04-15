@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Book Table of Contents
 
 **SYSTEM**: 
@@ -463,3 +469,4 @@ Etc etc
 ---
 
 This reflects the precise chapter titles and their order. Let me know if you’d like further refinements or additional formatting!
+{% endraw %}

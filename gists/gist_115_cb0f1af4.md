@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Album Cover Design Help
 
 **SYSTEM**: 
@@ -427,3 +433,4 @@ DALL·E displayed 1 images. The images are already plainly visible, so don't rep
 **ASSISTANT**: {"prompt":"An insert booklet page for 'The Old Gods' album by Hawk Eye The Rapper and Zenith the Queen | 13. The design showcases a glowing cosmic gateway suspended in the void of space, surrounded by swirling galaxies and celestial energy. The gateway is adorned with ancient runes and emits golden and purple light. Floating fragments of ancient relics and neon-lit futuristic panels orbit the gateway, symbolizing the merging of eras. The lower part of the page provides subtle space for lyrics or text. The colors include deep blacks, vibrant blues, glowing purples, golds, and radiant whites, creating a mystical and majestic atmosphere. HD rendering, intricate details, cinematic lighting, and rich textures.","size":"1024x1024"}
 
 **TOOL**: {'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-PqvBtdxJW4HKzMhEoquxfd', 'size_bytes': 508790, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'GPNAhrM2MgsDahPl', 'prompt': "An insert booklet page for 'The Old Gods' album by Hawk Eye The Rapper and Zenith the Queen | 13. The design showcases a glowing cosmic gateway suspended in the void of space, surrounded by swirling galaxies and celestial energy. The gateway is adorned with ancient runes and emits golden and purple light. Floating fragments of ancient relics and neon-lit futuristic panels orbit the gateway, symbolizing the merging of eras. The lower part of the page provides subtle space for lyrics or text. The colors include deep blacks, vibrant blues, glowing purples, golds, and radiant whites, creating a mystical and majestic atmosphere. HD rendering, intricate details, cinematic lighting, and rich textures.", 'seed': 2075959177, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'sanitized': False, 'asset_pointer_link': None}}
+{% endraw %}

@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Lyran Wars Galactic History
 
 **SYSTEM**: 
@@ -6302,3 +6308,4 @@ You choose the path. What’s calling you, Hawk Eye? 🦅🔥
 5. **Responsive Design:** Make it mobile-friendly with a CSS grid or flexbox layout.  
 
 Are you ready to fire up VSCode and open the project folder? I can help you create a new `index.html` or adjust your existing one with proper tags and structure. 🚀
+{% endraw %}

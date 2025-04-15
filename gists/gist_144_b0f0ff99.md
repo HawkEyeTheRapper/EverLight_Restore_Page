@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # DMZ vs Port Forwarding
 
 **SYSTEM**: 
@@ -1438,3 +1444,4 @@ To save the list of installed packages to a file for review:
    ```
 
 Let me know if you'd like to search for or analyze specific packages!
+{% endraw %}

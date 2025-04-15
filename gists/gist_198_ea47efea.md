@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Convert to Word
 
 **SYSTEM**: 
@@ -17,3 +23,4 @@ Please remember to search the user's documents if an answer to their question is
 **ASSISTANT**: I'll reprocess the file and ensure the link is accessible in a downloadable format. One moment, please.
 
 **ASSISTANT**: Please try downloading the Word document again using this link: [The_Game_Book_2.docx](sandbox:/mnt/data/The_Game_Book_2.docx). Let me know if this works for you!
+{% endraw %}

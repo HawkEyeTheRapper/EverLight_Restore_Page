@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Morning Greeting Exchange
 
 **SYSTEM**: 
@@ -166,3 +172,4 @@ These free alternatives offer a range of features that can help you build an inv
 Hueman provides more control over how your site looks across devices and offers greater flexibility, ensuring that the theme is visually congruent whether visited on mobile or desktop. Its reputation for being one of the best mobile-friendly themes makes it a reliable choice for balancing functionality and design. 
 
 If mobile experience and customization are critical, Hueman would be the better option.
+{% endraw %}

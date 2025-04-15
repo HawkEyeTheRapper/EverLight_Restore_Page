@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Writ of Mandamus Draft
 
 **SYSTEM**: 
@@ -607,3 +613,4 @@ Let me know if you need any more revisions!
    - You can still play an active role in drafting and preparing the petition, but the final submission and representation in court must come from a qualified attorney.
 
 Would you like guidance on finding the right attorney, or are there other questions you'd like to explore in relation to the filing process?
+{% endraw %}

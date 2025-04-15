@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Mordor Server Setup
 
 **SYSTEM**: 
@@ -10155,3 +10161,4 @@ Once you've confirmed everything works, your Nextcloud instance should be up and
 **ASSISTANT**: 
 
 **ASSISTANT**: Sure thing! Feel free to reach out in another chat whenever you're ready. I'll be here to help. 😊
+{% endraw %}

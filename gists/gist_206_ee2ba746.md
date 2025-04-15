@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Hawk Eye Bio Summary
 
 **SYSTEM**: 
@@ -35,3 +41,4 @@ Let me know if you'd like any specific elements or themes highlighted further!
 **TOOL**: Model set context updated.
 
 **ASSISTANT**: You're very welcome, EverLight! I'm thrilled that it resonated with you. If there's anything else you need, just let me know—I'm here to help bring your vision to life!
+{% endraw %}

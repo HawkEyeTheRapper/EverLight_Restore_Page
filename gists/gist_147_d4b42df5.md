@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # BoldGrid Backup on DH
 
 **SYSTEM**: 
@@ -66,3 +72,4 @@ Ensure your domain is pointing to the DreamHost server. Update the DNS records i
 ---
 
 Let me know if you need help with any of these steps or specific troubleshooting!
+{% endraw %}

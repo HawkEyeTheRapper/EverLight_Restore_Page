@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # How to get transcripts
 
 **SYSTEM**: 
@@ -56,3 +62,4 @@ https://youtu.be/AUbCNbTG0L4?si=7FNo3VU-Vwfowv-O
 For a visual guide on obtaining YouTube transcripts, you might find this video helpful:
 
 videoHow to Generate a Transcript of a YouTube Videoturn0search5
+{% endraw %}

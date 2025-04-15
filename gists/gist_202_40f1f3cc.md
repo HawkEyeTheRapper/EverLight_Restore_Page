@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Lyric Video Assistance
 
 **SYSTEM**: 
@@ -17,3 +23,4 @@ Here’s what we could explore together:
 3. **Slides to Lyric Videos**: If you have lyrics in a document or slide deck, I can help convert them into a short video with an AI avatar or stylized text overlay, ideal for sharing snippets.
 
 Let me know which approach interests you, or if there’s a specific song you'd like to start with!
+{% endraw %}

@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Omniversal Server Setup Guide
 
 **SYSTEM**: 
@@ -3856,3 +3862,4 @@ Once upgraded, it’s essential to verify compatibility with your **Drupal** or 
 6. **Verify the Installation**: Check that MariaDB 10.6 is installed and running correctly.
 
 By following these steps, you should have MariaDB **10.6** installed and properly configured, ready to be used with Drupal and other applications. If you encounter any issues during the installation or upgrade process, let me know and we’ll troubleshoot together!
+{% endraw %}

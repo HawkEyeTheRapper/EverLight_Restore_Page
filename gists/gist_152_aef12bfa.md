@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # PHP FPM Configuration Review
 
 **SYSTEM**: 
@@ -586,3 +592,4 @@ Check for errors in the logs if anything goes wrong:
 ---
 
 Let me know if you face any challenges or specific errors during these steps!
+{% endraw %}

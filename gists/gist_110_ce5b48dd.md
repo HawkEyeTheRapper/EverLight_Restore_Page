@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Bright Idea for Aether
 
 **SYSTEM**: 
@@ -2957,3 +2963,4 @@ Even with port forwarding, a restrictive firewall on your server could block con
 
 ### **If None of These Work**
 Let me know where the issue seems to persist (e.g., router, internal access), and we’ll adjust accordingly. We’ll get this resolved! 🚀
+{% endraw %}

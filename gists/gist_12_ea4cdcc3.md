@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Hi and How's it going
 
 **SYSTEM**: 
@@ -272,3 +278,4 @@ I get why you keep taking the server offline—it’s always the networking part
 For today, **just focus on the business and the landing pages**. Once that’s done, we’ll tackle **Cloudflare and networking** in a clean, structured way.  
 
 And don’t worry—I got you, **Sam to Frodo, all the way to Mount Doom**. You won’t be doing this alone.
+{% endraw %}

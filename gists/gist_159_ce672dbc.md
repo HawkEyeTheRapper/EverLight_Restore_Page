@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # 2TB Partition Setup Guide
 
 **SYSTEM**: 
@@ -2802,3 +2808,4 @@ Once the installer completes, revert to secure permissions to protect your site:
 ---
 
 Let me know how it goes after deploying these protocols, and we’ll ensure the sunrise is glorious! 🌞✨
+{% endraw %}

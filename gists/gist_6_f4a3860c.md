@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Nostr Relay for Web3
 
 **SYSTEM**: 
@@ -254,3 +260,4 @@ For now, we’ll keep the spotlight entirely on your properties, ensuring a **co
 ---
 
 If you’re ready, share your **domain list** or just let me know which ones to include—I can help you organize them into a **Domain Strategy Map**! 🌟🚀
+{% endraw %}

@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Memory Summary Request
 
 **SYSTEM**: 
@@ -390,3 +396,4 @@ EverLight_Aetherius/README.md
 ---
 
 Would you like me to help you generate the **Markdown templates for each category** to fill out after your export? I can provide the file structures and starting templates! 💙✨
+{% endraw %}

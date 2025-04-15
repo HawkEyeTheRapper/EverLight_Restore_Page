@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Lyric Video Creation
 
 **SYSTEM**: 
@@ -344,3 +350,4 @@ Let me know if you need additional adjustments or features!
 For a visual guide on creating lyric videos with VEED, you might find this tutorial helpful:
 
 videoVideo GPT by VEED - YouTubeturn0search4
+{% endraw %}

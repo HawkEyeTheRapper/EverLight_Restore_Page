@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Open Records Request Draft
 
 **SYSTEM**: 
@@ -720,3 +726,4 @@ I, **[Your Full Name]**, declare under penalty of perjury that the foregoing is 
 ---
 
 Let me know if you'd like further assistance refining this or preparing the supporting documentation!
+{% endraw %}

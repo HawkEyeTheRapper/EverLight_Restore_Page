@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Nginx Proxy Manager Login Issue
 
 **SYSTEM**: 
@@ -1424,3 +1430,4 @@ If the issue persists, please share:
 3. Output of the database check (`SHOW DATABASES;`).
 
 This will help us identify the root cause and implement a solution!
+{% endraw %}

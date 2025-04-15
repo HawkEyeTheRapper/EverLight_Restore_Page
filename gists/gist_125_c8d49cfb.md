@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # PHP.ini File Limits
 
 **SYSTEM**: 
@@ -894,3 +900,4 @@ After restarting, test the server:
 - You should see the Apache default page.
 
 Let me know if you encounter further issues!
+{% endraw %}

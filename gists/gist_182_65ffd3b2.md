@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Webserver Setup Guide
 
 **SYSTEM**: 
@@ -5495,3 +5501,4 @@ If you're following instructions to:
 These commands will work on both AlmaLinux and RHEL without any modification.
 
 Let me know if you need specific clarifications for AlmaLinux!
+{% endraw %}

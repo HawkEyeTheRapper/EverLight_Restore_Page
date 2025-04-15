@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Hawk Eye The Rapper Analysis
 
 **SYSTEM**: 
@@ -19,3 +25,4 @@ As he navigates the intersections of art and advocacy, Hawk Eye The Rapper conti
 As he navigates the intersections of art and advocacy, Hawk Eye The Rapper continues to inspire a movement of awareness and action, making music that resonates with listeners who seek more than just entertainment. He’s an artist on a mission, turning rhymes into revelations and using his voice to uplift, enlighten, and awaken.
 
 For more information about Hawk Eye The Rapper and his work, you can visit his official website. citeturn0search16
+{% endraw %}

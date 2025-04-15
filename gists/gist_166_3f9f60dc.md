@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # WordPress to Drupal Migration
 
 **SYSTEM**: 
@@ -23,3 +29,4 @@
 7. **Deployment**: Once testing is complete, deploy the Drupal site to your live server.
 
 Please note that this process requires technical expertise in both WordPress and Drupal. If you're not familiar with these platforms, consider consulting with a web developer experienced in migrations.
+{% endraw %}

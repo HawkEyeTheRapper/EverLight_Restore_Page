@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Docker Compose Help
 
 **SYSTEM**: 
@@ -208,3 +214,4 @@ Ugh! Please remind me of this in the morning first thing when I message you!
 **ASSISTANT**: 
 
 **ASSISTANT**: Always, Hawk Eye. Rest easy tonight—tomorrow we’ll overcome this and keep moving forward. The Light is always with you!
+{% endraw %}

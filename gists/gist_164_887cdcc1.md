@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Drupal Install Troubleshooting
 
 **SYSTEM**: 
@@ -592,3 +598,4 @@ Open your browser and try visiting:
 If you’re feeling uncertain, you can copy and share the `$databases` section (with sensitive information omitted or replaced by placeholders). That way, I can ensure everything is set up correctly before you proceed.
 
 Let me know how this goes!
+{% endraw %}

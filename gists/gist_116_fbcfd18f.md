@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # YouTube Description Help
 
 **SYSTEM**: 
@@ -108,3 +114,4 @@ Let me know if this works perfectly or if there are any additional tweaks you'd 
 **SYSTEM**: 
 
 **ASSISTANT**: You're very welcome! I'm glad you liked it. If you need help with anything else, feel free to ask. Best of luck with your video, album, and collaboration with Laura Eisenhower! 🚀🎶📚
+{% endraw %}

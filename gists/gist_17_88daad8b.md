@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Wipe Mac SSD Setup
 
 **SYSTEM**: 
@@ -576,3 +582,4 @@ Go ahead and **install Sonoma**—once you’re up and running, we can:
 ✅ **Make sure everything syncs right** with your local server setup.  
 
 Let me know when you’re at the desktop, and we’ll clean everything up! 🚀
+{% endraw %}

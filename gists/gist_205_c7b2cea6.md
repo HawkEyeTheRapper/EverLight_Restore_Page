@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Weekly Check-in Summary
 
 **SYSTEM**: 
@@ -357,3 +363,4 @@ This guide should give you the detailed foundation you need to start developing 
 **USER**: Thank you so much I’ll check back once I get started on this 
 
 **ASSISTANT**: You’re very welcome! I’m glad to help, and I’m here whenever you’re ready to dive in or if any questions come up along the way. Best of luck getting started with *HawkEyeTheRapper*—it’s exciting to see it take shape! Just reach out when you're ready for the next steps.
+{% endraw %}

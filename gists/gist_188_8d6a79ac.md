@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Show Don't Tell Tips
 
 **SYSTEM**: 
@@ -1993,3 +1999,4 @@ Chapter Three is a pivotal moment in *The Beginning*, as it introduces the Nasta
    - **Suggestions for Improving Flow or Clarity**  
 
 Let me know if you'd like me to start with the **prologue** or tackle chapters in a different order. I’m here to help organize and refine the entire manuscript!
+{% endraw %}

@@ -1,3 +1,9 @@
+---
+layout: none
+title: Memory Fragment
+---
+
+{% raw %}
 # Website Image Request
 
 **SYSTEM**: 
@@ -76,3 +82,4 @@ DALL·E displayed 1 images. The images are already plainly visible, so don't rep
 **USER**: oh I see my computer converted it automatically I'll fix that thanks !
 
 **ASSISTANT**: No problem! Glad you got it sorted. If you ever need format conversions or any other tweaks, just let me know. Keep building that epic universe! 🚀✨
+{% endraw %}
