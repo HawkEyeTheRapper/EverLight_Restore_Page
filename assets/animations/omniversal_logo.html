@@ -1,0 +1,28 @@
+<!-- assets/animations/omniversal_logo.html -->
+<div class="logo-anim pulse-symbol">
+  <img id="logo-frame" src="https://andwithhislight.omniversalaether.com/symbols/omniversal_symbol/animation_flow/01-Omni_Trans_SM.png" alt="Omniversal Emblem">
+</div>
+
+<script>
+  const frames = [
+    "01-Omni_Trans_SM.png",
+    "03-Omni_Teal_Smallest.png",
+    "04-Omni_Teal_Smallest_Dark.PNG",
+    "05-Omniversal_Symbol_005 copy.PNG",
+    "06-Omni_Violet_MaxTransition.PNG",
+    "07-Omni_Teal_MaxTransition.PNG",
+    "08-Omniversal_Symbol_003 copy.PNG",
+    "09-Omni_Teal_Max.png",
+    "10-Omni_Trans_LG.png",
+    "Omni_Violet_Glimmer.png"
+  ];
+
+  const BASE = "https://andwithhislight.omniversalaether.com/symbols/omniversal_symbol/animation_flow/";
+  const frameEl = document.getElementById("logo-frame");
+  let index = 0;
+
+  setInterval(() => {
+    frameEl.src = BASE + frames[index];
+    index = (index + 1) % frames.length;
+  }, 800); // Adjust timing as needed
+</script>
