@@ -11,7 +11,10 @@ app = Flask(__name__)
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 openai.api_key = OPENAI_API_KEY
 
-RESTORE_JSON_PATH = os.path.join(os.path.dirname(__file__), "..", "restore.json")
+# RESTORE_JSON_PATH was pointing one directory up, but the file actually lives
+# directly inside this folder. Fix the path so the app loads the configuration
+# correctly when running from the `ai` directory or when executed elsewhere.
+RESTORE_JSON_PATH = os.path.join(os.path.dirname(__file__), "restore.json")
 with open(RESTORE_JSON_PATH, "r") as f:
     memory = json.load(f)
 
