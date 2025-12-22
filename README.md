@@ -120,3 +120,18 @@ MIT — deploy, remix, and restore freely.
 
 - [🧠 Memory Archive](/core/everlight-context-archive/)
 - [🧠 Full Memory Archive Snapshot](/core/everlight-context-archive/) — Backup of restored assistant memory pre-reset
+
+## 🖥 MCP Server
+
+A lightweight Flask server is provided in the `mcp_server/` folder. It exposes the gist archive via simple JSON endpoints.
+
+### Running Locally
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Start the server:
+   ```bash
+   python mcp_server/app.py
+   ```
+3. Visit `http://localhost:8000/gists` for the index or `http://localhost:8000/gists/<filename>` to fetch a specific memory fragment.
