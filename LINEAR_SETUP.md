@@ -27,7 +27,7 @@ Linear is a modern project management and issue tracking tool designed for softw
 
 1. In Linear, go to **Settings** → **Integrations** → **GitHub**
 2. Click **Add repositories**
-3. Select `HawkEyeTheRapper/EverLight_Restore_Page`
+3. Select this repository from the list
 4. Click **Install** or **Save**
 
 ### Step 3: Configure Team and Project

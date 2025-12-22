@@ -118,7 +118,9 @@ This way:
 
 This repository is integrated with Linear for project management and issue tracking. The integration is configured in `.github/linear.yml`.
 
-### Setting up Linear Integration
+📖 **[Read the complete setup guide](LINEAR_SETUP.md)** for detailed instructions.
+
+### Quick Setup
 
 1. Go to your Linear workspace settings
 2. Navigate to **Integrations → GitHub**
