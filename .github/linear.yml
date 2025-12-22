@@ -1,0 +1,38 @@
+# Linear GitHub Integration Configuration
+# This file configures how Linear syncs with this GitHub repository
+
+# Automatically create Linear issues from GitHub issues
+createIssues: true
+
+# Automatically update Linear issues when GitHub issues change
+updateIssues: true
+
+# Sync PR status to Linear
+syncPRs: true
+
+# Add Linear issue links to GitHub PRs
+addPRLinks: true
+
+# Sync comments between GitHub and Linear
+syncComments: true
+
+# Team key in Linear (update this with your actual team key after setup)
+# teamKey: "TEAM"
+
+# Project key in Linear (update this with your actual project key after setup)
+# projectKey: "PROJ"
+
+# Auto-close Linear issues when PRs are merged
+autoClose: true
+
+# Label mapping between GitHub and Linear
+# labels:
+#   bug: "Bug"
+#   enhancement: "Feature"
+#   documentation: "Documentation"
+
+# Status mapping between GitHub and Linear
+# statuses:
+#   open: "Todo"
+#   in_progress: "In Progress"
+#   closed: "Done"

@@ -114,6 +114,26 @@ This way:
 	.md files (like gist_1_...)	❌ No (move to /gists/)	Should live in gists/ only
 ```
 
+## 🔗 Linear Integration
+
+This repository is integrated with Linear for project management and issue tracking. The integration is configured in `.github/linear.yml`.
+
+### Setting up Linear Integration
+
+1. Go to your Linear workspace settings
+2. Navigate to **Integrations → GitHub**
+3. Connect this repository to your Linear workspace
+4. Update the `teamKey` and `projectKey` in `.github/linear.yml` with your actual Linear team and project keys
+5. Issues, PRs, and comments will automatically sync between GitHub and Linear
+
+### Features
+
+- ✅ Automatic issue creation in Linear from GitHub issues
+- ✅ Bi-directional sync of issue updates
+- ✅ PR status tracking in Linear
+- ✅ Comment synchronization
+- ✅ Auto-close Linear issues when PRs are merged
+
 ## 📜 License
 
 MIT — deploy, remix, and restore freely.
